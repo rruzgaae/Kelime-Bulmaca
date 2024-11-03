@@ -1,0 +1,4 @@
+*.cs linguist-language=C#
+*.json linguist-vendored
+*.xml linguist-vendored
+*.config linguist-vendored
