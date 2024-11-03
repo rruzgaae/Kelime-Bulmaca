@@ -19,13 +19,13 @@ C# ile geliştirilmiş bu eğlenceli kelime bulma oyunu ile kelime bilginizi tes
 ## Ekran Görüntüleri 📸
 
 Ana Menü:
-![Ana Menü](https://github.com/user-attachments/assets/c0f8b351-c02a-4c0c-9a16-be58dad96bf7)
+![](https://github.com/user-attachments/assets/c0f8b351-c02a-4c0c-9a16-be58dad96bf7)
 
 Oyun Ekranı:
-![Oyun Ekranı](https://github.com/user-attachments/assets/1d5f9392-7f18-4bcf-b4b3-158248ad224c)
+![](https://github.com/user-attachments/assets/1d5f9392-7f18-4bcf-b4b3-158248ad224c)
 
 Oyun Ekranı 2:
-![Kazandığınızda](https://github.com/user-attachments/assets/c92ba6d1-8443-4852-8afc-e92a7547df16)
+![](https://github.com/user-attachments/assets/c92ba6d1-8443-4852-8afc-e92a7547df16)
 
 ## Gereksinimler 🔧
 
